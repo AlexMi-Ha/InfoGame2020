@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Klasse\ f\u00C3\u00BCr\ die\ Hindernisse\ in\ R\u00C3\u00A4umen,\ Steinen.\r\n\ @author\ Daniel\r\n\ @version\ 6.6.2020\r\n
+comment1.params=texture
+comment1.target=Rock(int)
+numComments=2

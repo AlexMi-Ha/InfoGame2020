@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Minimap
+comment0.text=\r\n\ Platziert\ Minimap\r\n\ \r\n\ @author\ Sebi\r\n\ @version\ 01.06.2020\r\n
+comment1.params=img
+comment1.target=void\ updateImage(greenfoot.GreenfootImage)
+numComments=2

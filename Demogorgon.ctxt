@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Demogorgon
+comment0.text=\r\n\ Die\ Klasse\ des\ Demogorgon\ bosses.\ Er\ kann\ sich\ hinter\ den\ Spieler\ teleportieren\r\n\ und\ Gegner,\ die\ ihm\ helfen\ spawnen.\ Dieser\ Boss\ k\u00C3\u00A4mpft\ aus\ der\ Ferne\r\n\ \r\n\ @author\ Alex\r\n\ @version\ 26.06.2020\r\n
+comment1.params=
+comment1.target=Demogorgon()
+comment1.text=\r\n\ Erzeugt\ eine\ Instanz\ eines\ neuen\ Demogorgon\ Bosses\r\n
+comment2.params=
+comment2.target=IBossAbility\ pickAbility()
+comment2.text=\r\n\ Gibt\ eine\ zuf\u00C3\u00A4llige\ F\u00C3\u00A4higkeit\ aus\ der\ m\u00C3\u00B6glichen\ Auswahl\ des\ Bosses\ zur\u00C3\u00BCck\r\n\ @return\ F\u00C3\u00A4higkeiten\ Klasse,\ die\ IBossAbility\ implementiert\ (50%\ Minions;\ 50%\ Tp)\r\n
+comment3.params=player
+comment3.target=void\ attack(Player)
+comment3.text=\r\n\ Greift\ den\ Spieler\ (sofern\ er\ in\ Reichweite\ ist)\ an\r\n
+numComments=4

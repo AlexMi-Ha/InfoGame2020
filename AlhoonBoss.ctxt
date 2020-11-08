@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AlhoonBoss
+comment0.text=\r\n\ Der\ Alhoon-Boss\ bewegt\ sich\ recht\ langsam\ und\ kann\ nur\ schwer\ get\u00C3\u00B6tet\ werden,\ solange\ seine\r\n\ Altare\ am\ Leben\ sind.\ Au\u00C3\u0178erdem\ hat\ er\ eine\ Dauerfeuer\ F\u00C3\u00A4higkeit\ die\ ihm\ erlaubt,\ f\u00C3\u00BCr\ eine\r\n\ gewisse\ Zeit\ mehrere\ Projektile\ schnell\ in\ alle\ Richtungen\ zu\ feuern.\r\n\ \r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 26.06.2020\r\n
+comment1.params=
+comment1.target=AlhoonBoss()
+comment1.text=\r\n\ Erzeugt\ eine\ Instanz\ eines\ neuen\ Alhoon\ Bosses\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Diese\ Methode\ wird\ ausgef\u00C3\u00BChrt\ sobald\ der\ Boss\ zur\ Welt\ hinzugef\u00C3\u00BCgt\ wird.\r\n\ Hier\ wird\ zum\ ersten\ mal\ die\ Altar\ f\u00C3\u00A4higkeit\ ausgef\u00C3\u00BChrt.\r\n
+comment3.params=
+comment3.target=IBossAbility\ pickAbility()
+comment3.text=\r\n\ Gibt\ eine\ zuf\u00C3\u00A4llige\ F\u00C3\u00A4higkeit\ aus\ der\ m\u00C3\u00B6glichen\ Auswahl\ des\ Bosses\ zur\u00C3\u00BCck\r\n\ @return\ F\u00C3\u00A4higkeiten\ Klasse,\ die\ IBossAbility\ implementiert\ (7%\ Altar;\ 93%\ bullethell)\r\n
+comment4.params=player
+comment4.target=void\ attack(Player)
+comment4.text=\r\n\ Greift\ den\ Spieler\ (sofern\ er\ in\ Reichweite\ ist)\ an\r\n
+numComments=5

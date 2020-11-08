@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Diese\ Klasse\ regelt\ das\ T\u00C3\u00BCrverhalten\ und\ das\ Verschlie\u00C3\u0178en\ der\ T\u00C3\u00BCr\r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 24.5.2020\r\n
+comment1.params=facing\ doorType
+comment1.target=Door(int,\ java.lang.String)
+comment1.text=\r\n\ Erzeugt\ eine\ T\u00C3\u00BCr\ und\ setzt\ ihr\ Bild\r\n\ @param\ facing\ Blickrichtung\ der\ T\u00C3\u00BCr\ 0\:\ N;\ 1\:\ E;\ 2\:S;\ 3\:W\r\n\ @param\ doorType\ Typ\ der\ T\u00C3\u00BCr,\ Room.ROOM_TYPE.toString()\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ (Author\:\ Daniel)\r\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ Diese\ Methode\ wird\ aufgerufen\ sobald\ der\ Actor\ zu\ einer\ Welt\ hinzugef\u00C3\u00BCgt\ wurde.\r\n\ Sie\ regelt\ ob\ die\ T\u00C3\u00BCr\ dauerhaft\ verschlossen\ sein\ soll\ oder\ nicht\r\n
+comment4.params=lock
+comment4.target=void\ setLocked(boolean)
+comment4.text=\r\n\ Regelt\ das\ Verschlie\u00C3\u0192\u00C5\u00B8en\ der\ T\u00C3\u0192\u00C2\u00BCr.\ Beim\ Schlie\u00C3\u0192\u00C5\u00B8en\ setzt\ es\ Collider\ und\ beim\ \u00C3\u0192\u00E2\u20AC\u201Cffnen\ wird\ der\ Collider\ wieder\ entfernt\r\n\ @param\ lock\ Ist\ die\ T\u00C3\u00BCr\ verschlossen?\r\n
+comment5.params=locked\ lockState\ doorType
+comment5.target=greenfoot.GreenfootImage\ createImage(boolean,\ int,\ java.lang.String)
+comment5.text=\r\n\ L\u00C3\u0192\u00C2\u00A4dt\ eine\ gewollte\ Textur\r\n\ @param\ locked\ Ist\ die\ T\u00C3\u0192\u00C2\u00BCr\ verschlossen?\r\n\ @param\ lockState\ In\ welchem\ Animations\ zyklus\ ist\ die\ T\u00C3\u0192\u00C2\u00BCr\r\n\ @param\ doorType\ Ist\ es\ eine\ Bosst\u00C3\u0192\u00C2\u00BCr,\ eine\ Keyt\u00C3\u0192\u00C2\u00BCr\ oder\ eine\ Normale\r\n\ @return\ Gibt\ das\ gewollte\ Bild\ als\ GreenfootImage,\ richtig\ gescaled\ zur\u00C3\u0192\u00C2\u00BCck\r\n
+comment6.params=
+comment6.target=void\ lockAnimation()
+comment6.text=\r\n\ Animiert\ den\ Schlie\u00C3\u0178vorgang\ der\ T\u00C3\u00BCre\r\n\ (Autor\:\ Daniel)\r\n
+comment7.params=
+comment7.target=void\ unlockAnimation()
+comment7.text=\r\n\ Animiert\ den\ \u00C3\u2013ffnungsvorgang\ der\ T\u00C3\u00BCre\r\n\ (Autor\:\ Daniel)\r\n
+numComments=8

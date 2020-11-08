@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IBossAbility
+comment0.text=\r\n\ Interface\ f\u00C3\u00BCr\ die\ Methoden,\ die\ die\ F\u00C3\u00A4higkeiten\ der\ Bosse\ steuern\r\n\ \r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 26.06.2020\r\n
+comment1.params=boss
+comment1.target=boolean\ useAbility(Boss)
+comment1.text=\ \r\n\ F\u00FChrt\ einen\ Schritt\ der\ F\u00E4higkeit\ aus.\r\n\ @param\ boss\ Boss,\ der\ die\ F\u00E4higkeit\ ausf\u00FChrt\r\n\ @return\ Boolean,\ ob\ die\ Methode\ nochmal\ aufgerufen\ werden\ soll\ /\ Die\ F\u00E4higkeit\ nicht\ zu\ ende\ ist\r\n
+comment2.params=boss
+comment2.target=void\ stopAbility(Boss)
+comment2.text=\r\n\ Stoppt\ die\ F\u00C3\u00A4higkeit\ und\ resetet\ alles\r\n\ @param\ boss\ Boss,\ f\u00FCr\ den\ die\ F\u00E4higkeit\ gestoppt\ werden\ soll\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAbilityName()
+comment3.text=\r\n\ Gibt\ die\ Bezeichnung\ der\ F\u00E4higkeit\ zur\u00FCck.\r\n
+comment4.params=boss
+comment4.target=void\ manageAnim(Boss)
+comment4.text=\r\n\ Passt\ alle\ Animationsspezifischen\ Werte\ des\ Bosses\ an\ \r\n\ um\ die\ richtigen\ Frames\ f\u00FCr\ die\ F\u00E4higkeit\ zu\ erhalten.\r\n\ Autor\:\ Daniel\r\n
+numComments=5

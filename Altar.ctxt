@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Altar
+comment0.text=\r\n\ Dieser\ Gegner\ kann\ sich\ nicht\ bewegen\ und\ greift\ auch\ nicht\ an.\ Er\ ist\ nur\ f\u00C3\u00BCr\ die\ Boss\ F\u00C3\u00A4higkeit\r\n\ "Altar"\ hier,\ welche\ vom\ Alhoon\ Boss\ benutzt\ wird.\r\n\ \r\n\ @author\ Alex\ \r\n\ @version\ 22.6.2020\r\n
+comment1.params=
+comment1.target=Altar()
+comment1.text=\r\n\ Erzeugt\ einen\ neuen\ Altar\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \u00C3\u0192\u00C5\u201Cberschreibt\ die\ act\ Methode,\ weil\ der\ Altar\ sich\ nicht\ bewegen\ muss.\r\n\ Gegner\ muss\ trotzdem\ die\ animation\ abspielen\ und\ sterben\ k\u00C3\u00B6nnen\r\n
+numComments=3

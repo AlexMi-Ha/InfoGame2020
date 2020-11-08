@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StartMenu
+comment0.text=\r\n\ Klasse\ f\u00FCr\ das\ Men\u00FC,\ das\ angezeigt\ wird,\ wenn\ das\ Spiel\ gestartet\ wird.\r\n\ Dient\ als\ Startbildschirm\r\n\ \r\n\ @author\ Anja,\ Alex\ \r\n\ @version\ 09.06.2020\r\n
+comment1.params=
+comment1.target=StartMenu()
+comment1.text=\r\nStandard\ Konstruktor\ zum\ Spielstart,\ versucht\ erst\ Story\ abzuspielen\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Navigierung\ durch\ die\ Men\u00FCpunkte\ mit\ den\ Pfeiltasten\ und\ Enter\r\n
+comment3.params=keysLocked
+comment3.target=void\ setKeyLock(boolean)
+comment3.text=\r\n\ legt\ fest,\ ob\ die\ Navigierung\ durch\ die\ Tasten\ gerade\ gesperrt\ ist\r\n
+comment4.params=
+comment4.target=StartMenu\ getWorld()
+comment4.text=\r\n\ getWorld()-method\ f\u00FCr\ StartMenu\r\n
+comment5.params=s
+comment5.target=void\ setStory(boolean)
+numComments=6

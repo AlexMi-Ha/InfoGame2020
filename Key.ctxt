@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=\r\n\ Klasse\ f\u00C3\u00BCr\ den\ Schl\u00C3\u00BCssel\ der\ gebraucht\ wird\ um\ in\ den\ Bossraum\ zu\ kommen\r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 24.5.2020\r\n
+comment1.params=
+comment1.target=greenfoot.GreenfootImage\ loadTexture()
+comment1.text=\r\n\ \ Gibt\ die\ gewollte\ Textur\ zur\u00C3\u00BCck.\r\n\ \ @return\ GreenfootImage\ mit\ der\ Textur\r\n\ \ Autor\:\ Daniel\r\n
+comment2.params=
+comment2.target=void\ onPickUp()
+comment2.text=\r\n\ \ Wird\ vom\ Spieler\ aufgerufen\ sobald\ er\ das\ Item\ ber\u00C3\u00BChrt.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ idleAnimation()
+comment4.text=\r\n\ Spielt\ die\ dauerhaft\ das\ Auf-\ und\ abschweben\ des\ Schl\u00C3\u00BCssels\ ab\r\n\ Autor\:\ Daniel\r\n
+numComments=5

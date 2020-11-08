@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Heart
+comment0.text=\r\n\ Klasse\ f\u00C3\u00BCr\ ein\ Herz-Item,\ welches\ die\ Lebenspunkte\ des\ Spielers\ erh\u00F6ht.\r\n\ @author\ Daniel,\ Alex\r\n\ @version\ 6.6.2020\r\n
+comment1.params=
+comment1.target=greenfoot.GreenfootImage\ loadTexture()
+comment1.text=\r\n\ \ Gibt\ die\ gewollte\ Textur\ zur\u00C3\u00BCck.\r\n\ \ @return\ GreenfootImage\ mit\ der\ Textur\r\n
+comment2.params=
+comment2.target=void\ onPickUp()
+comment2.text=\r\n\ \ Wird\ vom\ Spieler\ aufgerufen\ sobald\ er\ das\ Item\ ber\u00C3\u00BChrt.\r\n\ \ Autor\:\ Alex\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ idleAnimation()
+comment4.text=\r\n\ Spielt\ die\ dauerhaft\ das\ Auf-\ und\ abschweben\ des\ Herzens\ ab\r\n
+numComments=5

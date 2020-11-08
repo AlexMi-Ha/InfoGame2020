@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Heavy
+comment0.text=\r\n\ Objekte\ der\ Unterklasse\ Heavy\ versuchen\ sich\ dem\ Spieler\ so\ gut\ es\ geht\ zu\ n\u00C3\u00A4hern,\ \r\n\ um\ ihn\ dann\ direkt\ mit\ einem\ Schlag\ anzugreifen.\ Sie\ unterscheiden\ \r\n\ sich\ vom\ Walker\ durch\ eine\ niedrigere\ Geschwindigkeit\ und\ mehr\ Schaden.\r\n\ \r\n\ @author\ Anja,\ Daniel\r\n\ @version\ 30.05.2020\r\n
+comment1.params=
+comment1.target=Heavy()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ melee()
+comment3.text=\r\n\ \u00C3\u0153berpr\u00C3\u00BCft\ ob\ Gegner\ den\ Spieler\ angreifen\ kann;\ greift\ im\ Fall\ an.\r\n\ Autor\:\ Daniel\r\n
+numComments=4

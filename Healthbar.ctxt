@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Healthbar
+comment0.text=\r\n\ Das\ UI-Element\ der\ Healthbar\:\ Eine\ visuelle\ Darstellung\ der\ aktuellen\ Lebenspunkte\ des\ Spielers.\r\n\ \r\n\ \r\n\ @author\ Daniel,\ Alex\r\n\ @version\ 30.05.2020\r\n
+comment1.params=width\ height\ color
+comment1.target=Healthbar(int,\ int,\ greenfoot.Color)
+comment2.params=health\ max_health
+comment2.target=void\ updateHealthBar(int,\ int)
+comment2.text=\r\n\ Aktualisieren\ der\ Healthbar,\ falls\ der\ Spieler\ Schaden\ nimmt\ oder\ Leben\ regeneriert\r\n
+numComments=3

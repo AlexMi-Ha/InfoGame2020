@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RoomGenerator
+comment0.text=\r\n\ Hier\ werden\ Methoden\ zur\ verf\u00C3\u00BCgung\ gestellt,\ die\ die\ verschiedenen\ Raumtypen\ seperat\ generieren\ und\ laden\r\n\ @author\ Daniel,\ Alex\r\n\ @version\ 25.6.2020\r\n
+comment1.params=world\ room
+comment1.target=void\ generateLootRoom(DungeonWorld,\ Room)
+comment1.text=\r\n\ Generiert\ den\ bestimmten\ Raum\ und\ l\u00C3\u00A4dt\ dessen\ Textur,\ geht\ auf\ m\u00C3\u00B6gliche\ Ereignisse\ ein\r\n
+comment2.params=world\ room
+comment2.target=void\ generateNormalRoom(DungeonWorld,\ Room)
+comment3.params=world\ room
+comment3.target=void\ generateTrapRoom(DungeonWorld,\ Room)
+comment4.params=world\ room
+comment4.target=void\ generateKeyRoom(DungeonWorld,\ Room)
+comment5.params=world\ room
+comment5.target=void\ generateBossRoom(DungeonWorld,\ Room)
+comment6.params=room\ ebene
+comment6.target=greenfoot.GreenfootImage\ loadTextures(java.lang.String,\ int)
+comment6.text=\r\n\ L\u00C3\u00A4dt\ die\ Textur\ des\ bestimmten\ Raums\r\n\ @param\ room\ Beschreibt\ Art\ des\ Raums\r\n\ @param\ ebene\ Beschreibt\ aktuelle\ Ebene\ des\ Spielers,\ sodass\ sich\ diese\ nach\ Ebene\ anpassen\r\n\ @return\ Gibt\ die\ Textur\ des\ bestimmten\ Raums\ auf\ der\ Ebene\ zur\u00C3\u00BCck\r\n
+comment7.params=number
+comment7.target=void\ generateNormalRoomCode(int)
+comment7.text=\r\n\ Geniert\ den\ Code\ f\u00C3\u00BCr\ die\ Struktur\ eines\ normalen\ Raumes\ im\ Bezug\ auf\ Steine-\ und\ Gegner-\ Platzierungen\ (\=>\ Ausgabe\ in\ Konsole)\r\n
+numComments=8

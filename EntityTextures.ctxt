@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EntityTextures
+comment0.text=\r\n\ Klasse,\ die\ f\u00C3\u00BCr\ das\ Laden\ der\ Texturen\ von\ verschiedenen\ Objekten,\ zB\ Gegnern,\ zust\u00C3\u00A4ndig\ ist.\ Somit\ wird\ die\ Textur\ von\ dem\ Collider\ der\ Gegner\ getrennt.\r\n\ Die\ Textur\ wird\ also\ \u00C3\u00BCber\ den\ tats\u00C3\u00A4chlichen\ Gegner\ gelegt.\r\n\ @author\ Daniel\r\n\ @version\ 26.06.2020\r\n
+comment1.params=type\ facing\ animationState\ animIndex
+comment1.target=void\ loadTexture(java.lang.String,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Ber\u00C3\u00BCcksichtigt\ Gegnertyp,\ Blickrichtung,\ aktuelle\ Bewegungsart\ und\ den\ Fortschritt\ der\ bisherigen\ Animation\ der\ Gegner.\r\n
+comment2.params=type\ facing\ bossState\ animationState\ animIndex
+comment2.target=void\ loadBossTexture(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Ber\u00C3\u00BCcksichtigt\ Bosstyp,\ Blickrichtung,\ F\u00E4higkeitsstatus,\ aktuelle\ Bewegungsart\ und\ den\ Fortschritt\ der\ bisherigen\ Animation\ des\ Bosses.\r\n
+comment3.params=facing\ animationState\ animIndex
+comment3.target=void\ loadPlayerTexture(int,\ java.lang.String,\ int)
+comment3.text=\r\n\ Ber\u00C3\u00BCcksichtigt\ Blickrichtung,\ aktuelle\ Bewegungsart\ und\ den\ Fortschritt\ der\ bisherigen\ Animation\ f\u00FCr\ den\ Spieler.\r\n
+numComments=4

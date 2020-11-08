@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Archer
+comment0.text=\r\n\ Objekte\ der\ Unterklasse\ Archer\ sind\ Bogensch\u00FCtzen,\ die\ versuchen\ sich\ in\ einem\ Ring\ um\ den\ Spieleraufzuhalten,\ \r\n\ um\ ihn\ von\ dort\ mit\ Pfeilen\ anzugreifen.\r\n\ Wenn\ sie\ zu\ nah\ am\ Spieler\ sind,\ laufen\ sie\ von\ ihm\ weg\ bis\ sie\ wieder\ im\ richtigen\ Bereich\ sind.\r\n\ Dieser\ Bereich\ wird\ in\ der\ Klasse\ Ranged\ festgelegt.\r\n\ \r\n\ @author\ Anja,\ Daniel\ \r\n\ @version\ 22.6.2020\r\n
+comment1.params=
+comment1.target=Archer()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Die\ gleiche\ act()-Methode\ wie\ bei\ der\ Superklasse\ Enemy,\ nur\ dass\ au\u00C3\u0178erdem\ auf\ den\ Spieler\ geschossen\ wird\r\n\r\n
+numComments=3

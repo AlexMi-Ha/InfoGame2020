@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PauseMenu
+comment0.text=\r\n\ Klasse\ f\u00FCr\ das\ Men\u00FC,\ das\ angezeigt\ wird,\ wenn\ der\ Player\ die\ ESC-Taste\ dr\u00FCckt\ und\ somit\ das\ Spiel\r\n\ pausiert\r\n\ \r\n\ @author\ Anja\ \r\n\ @version\ 08.06.2020\r\n
+comment1.params=worldToEnter\ keyPressed
+comment1.target=PauseMenu(greenfoot.World,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\nNavigierung\ durch\ die\ Men\u00FCpunkte\ mit\ den\ Pfeiltasten,Enter\ und\ Escape\r\n
+comment3.params=keysLocked
+comment3.target=void\ setKeyLock(boolean)
+comment3.text=\r\n\ legt\ fest,\ ob\ die\ Navigierung\ durch\ die\ Tasten\ gerade\ gesperrt\ ist\r\n
+comment4.params=
+comment4.target=PauseMenu\ getWorld()
+comment4.text=\r\n\ getWorld()-method\ f\u00FCr\ PauseMenu\r\n
+numComments=5

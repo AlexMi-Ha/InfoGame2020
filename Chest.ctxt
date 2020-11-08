@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Chest
+comment0.text=\r\n\ Klasse\ f\u00C3\u00BCr\ die\ Truhe,\ die\ in\ Loot-&\ Fallenr\u00C3\u00A4umen\ steht.\r\n\ @author\ Daniel\r\n\ @version\ 22.6.2020\r\n
+comment1.params=open\ room
+comment1.target=Chest(boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animation()
+comment3.text=\ \r\n\ Spielt\ die\ Animation\ vom\ \u00D6ffnen\ der\ Truhe\ ab\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ createImage()
+comment4.text=\r\n\ @\ L\u00C3\u00A4dt\ &\ gibt\ die\ Textur\ aus\ \r\n
+comment5.params=
+comment5.target=void\ event()
+comment5.text=\r\n\ L\u00C3\u00B6st\ das\ Event\ nach\ der\ Animation\ aus\:\r\n\ \ Loot\:\ droppt\ ein\ Herz-Item\r\n\ \ Falle\:\ droppt\ entweder\ Herz\ ODER\ spawnt\ Gegner\r\n
+numComments=6

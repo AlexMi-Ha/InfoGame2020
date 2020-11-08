@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProgressionDoor
+comment0.text=\r\n\ Oberklasse\ f\u00C3\u00BCr\ alle\ T\u00C3\u00BCrarten\r\n\ \r\n\ @author\ Alex\r\n\ @version\ 15.5.2020\r\n
+comment1.params=lock
+comment1.target=void\ setLocked(boolean)
+comment1.text=\r\n\ Setzt\ den\ Lock-status\ der\ T\u00C3\u00BCr\r\n
+comment2.params=
+comment2.target=boolean\ isLocked()
+comment2.text=\r\n\ Ist\ die\ T\u00C3\u00BCr\ verschlossen?\r\n\ @return\ Boolean,\ ob\ die\ T\u00C3\u00BCr\ verschlossen\ ist\r\n
+numComments=3

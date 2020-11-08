@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Story
+comment0.text=\r\n\ Zeigt\ das\ Bild\ an\ auf\ dem\ die\ Story\ geschrieben\ steht\ und\ zeigt\ es\ an\ indem\ die\ Transparenz\r\n\ langsam\ erh\u00F6ht\ wird\r\n\ \r\n\ @author\ Anja\ \r\n\ @version\ 08.06.2020\r\n
+comment1.params=
+comment1.target=Story()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ openGame()
+numComments=4

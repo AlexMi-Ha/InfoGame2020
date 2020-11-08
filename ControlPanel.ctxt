@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ControlPanel
+comment0.text=\r\nIn\ ControlPanel\ wird\ ein\ Bild\ angezeigt,\ auf\ dem\ die\ Steuerung\ erkl\u00E4rt\ wird\r\n\ \r\n\ @author\ Anja\ \r\n\ @version\ 08.06.2020\r\n
+comment1.params=menu
+comment1.target=ControlPanel(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \u00DCberpr\u00FCft\ ob\ ESC-Taste\ gedr\u00FCckt\ wird\ und\ l\u00E4sst\ sich\ dann\ durch\ Fallunterscheidung\ mithilfe\r\n\ der\ menu-variable\ wieder\ entfernen.\ Deaktiviert\ au\u00DFerdem\ die\ Tastensperre\ des\ Men\u00FCs\r\n\r\n
+numComments=3

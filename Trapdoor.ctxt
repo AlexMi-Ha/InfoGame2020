@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Trapdoor
+comment0.text=\r\n\ Klasse\ f\u00C3\u00BCr\ die\ Fallt\u00C3\u00BCr,\ die\ nach\ einem\ Boss\ spawnt,\ um\ in\ die\ n\u00C3\u00A4chste\ Ebene\ /\ ins\ n\u00C3\u00A4chste\ Level\ zu\ kommen\r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 24.5.2020\r\n
+comment1.params=
+comment1.target=Trapdoor()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Fallt\u00C3\u00BCr\r\n
+comment2.params=lock
+comment2.target=void\ setLocked(boolean)
+comment2.text=\r\n\ Setzt\ den\ lock-Status\ der\ Fallt\u00C3\u00BCr\r\n\ @param\ lock\ Ist\ die\ Fallt\u00C3\u00BCr\ verschlossen?\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ In\ dieser\ act\ Methode\ wird\ das\ interaktions\ Verhalten\ der\ Fallt\u00C3\u00BCr\ geregelt\r\n\ Spieler\ auf\ der\ Fallt\u00C3\u00BCr\ muss\ e\ dr\u00C3\u00BCcken\ um\ das\ neue\ Level\ zu\ laden\r\n
+comment4.params=locked\ lockState
+comment4.target=greenfoot.GreenfootImage\ createImage(boolean,\ int)
+comment4.text=\r\n\ L\u00C3\u0192\u00C2\u00A4dt\ die\ gewollte\ Textur\r\n\ @param\ locked\ Ist\ die\ Fallt\u00C3\u0192\u00C2\u00BCr\ verschlossen?\r\n\ @param\ lockState\ In\ welchem\ Animations\ zyklus\ ist\ die\ Fallt\u00C3\u0192\u00C2\u00BCr\r\n\ @return\ Gibt\ das\ gewollte\ Bild\ als\ GreenfootImage,\ richtig\ gescaled\ zur\u00C3\u0192\u00C2\u00BCck\r\n
+comment5.params=
+comment5.target=void\ loadNewLevel()
+comment5.text=\r\n\ L\u00C3\u00A4dt\ die\ neue\ Ebene\r\n
+comment6.params=
+comment6.target=void\ animation()
+comment6.text=\r\n\ Animiert\ das\ \u00C3\u2013ffnen\ der\ Fallt\u00C3\u00BCre\ nach\ dem\ Dr\u00C3\u00BCcken\ von\ E,\ Laden\ des\ neuen\ Levels\r\n\ (Author\:\ Daniel)\r\n
+numComments=7

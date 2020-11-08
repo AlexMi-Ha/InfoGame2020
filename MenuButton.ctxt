@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MenuButton
+comment0.text=\r\n\ MenuButton\ ist\ die\ Klasse\ f\u00FCr\ alle\ Buttons\ die\ in\ den\ Men\u00FCs\ verwendet\ werden\r\n\ \r\n\ @author\ Anja\r\n\ @version\ 08.06.2020\r\n
+comment1.params=type\ selected
+comment1.target=MenuButton(java.lang.String,\ boolean)
+comment2.params=selected
+comment2.target=void\ setSelected(boolean)
+comment2.text=\r\n\ setter-Method\ f\u00FCr\ Variable\ selected.\r\n\ Updated\ beim\ Ausf\u00FChren\ auch\ das\ Bild\ des\ Buttons\r\n\ \r\n
+comment3.params=
+comment3.target=boolean\ isSelected()
+comment3.text=\r\n\ @return\ Ist\ der\ Knopf\ gerade\ ausgew\u00E4hlt?\r\n
+numComments=4

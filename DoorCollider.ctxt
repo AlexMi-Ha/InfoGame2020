@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DoorCollider
+comment0.text=\r\n\ Spezieller\ Wand-Collider\ f\u00C3\u00BCr\ das\ Verschlie\u00C3\u0178en\ von\ T\u00C3\u00BCren\r\n\ @author\ Alex\r\n\ @version\ 15.5.2020\r\n
+comment1.params=width\ height
+comment1.target=DoorCollider(int,\ int)
+comment1.text=\r\n\ Erzeugt\ einen\ neuen\ DoorCollider\r\n\ @param\ width\ L\u00C3\u00A4nge\ der\ Wand\r\n\ @param\ height\ Breite\ der\ Wand\r\n
+numComments=2

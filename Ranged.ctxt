@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ranged
+comment0.text=\r\n\ Die\ Unterklasse\ Melee\ implementiert\ das\ Interface\ Movement\ und\ damit\ auch\ die\ Methode\ zielBerechnen(int,\ int,\ int,\ int)\ sowie\ inRange(int,\ int,\ int,\ int).\r\n\ \r\n\ @author\ Anja\ \r\n\ @version\ 22.06.2020\r\n
+comment1.params=
+comment1.target=Ranged()
+comment2.params=distMin\ distMax
+comment2.target=Ranged(int,\ int)
+comment3.params=playerX\ playerY\ enemyX\ enemyY
+comment3.target=int[]\ zielBerechnen(int,\ int,\ int,\ int)
+comment3.text=\r\n\ Der\ Ring,\ in\ den\ die\ Vektoren\ f\u00C3\u00BChren\ beginnt\ 50\ Einheiten\ vom\ Player\ entfernt\ und\ endet\ nach\ weiteren\ 70\ Einheiten.\ Die\ Methode\ ist\ so\ gemacht,\ \r\n\ dass\ der\ Vektor\ immer\ den\ k\u00C3\u00BCrzesten\ Weg\ in\ den\ Ring\ zeigt.\r\n
+comment4.params=playerX\ playerY\ enemyX\ enemyY
+comment4.target=boolean\ inRange(int,\ int,\ int,\ int)
+numComments=5

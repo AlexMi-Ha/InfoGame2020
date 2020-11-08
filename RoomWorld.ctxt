@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RoomWorld
+comment0.text=\r\n\ Raum\ subklasse,\ die\ im\ Endeffekt\ auch\ in\ der\ Welt\ erzeugt\ wird.\r\n\ Hier\ sind\ nur\ mehrere\ Konstruktor\ vorhanden,\ die\ der\ Superklasse\ sagen,\ welchen\ Raum\ sie\ generieren\ sollen.\r\n\ @author\ Alex\r\n\ @version\ 14.5.2020\r\n
+comment1.params=
+comment1.target=RoomWorld()
+comment1.text=\ \r\n\ Erzeuge\ eine\ neue\ Welt\ an\ der\ Position\ (GAME\ POS)\ (0|0).\r\n\ Generiert\ neues\ Spiel\ und\ legt\ den\ Raum\ an\r\n
+comment2.params=data
+comment2.target=RoomWorld(java.lang.String[])
+comment2.text=\r\n\ Erzeuge\ einen\ Raum\ mit\ speziellen\ data\ Array\r\n
+comment3.params=x\ y
+comment3.target=RoomWorld(int,\ int)
+comment3.text=\r\n\ Erzeuge\ einen\ Raum\ an\ einer\ speziellen\ (GAME\ COORDS)\ position\ der\ Map\r\n\ @param\ x\ X-Koordinate\ des\ gew\u00FCnschten\ Raumes\r\n\ @param\ y\ Y-Koordinate\ des\ gew\u00FCnschten\ Raumes\r\n
+numComments=4

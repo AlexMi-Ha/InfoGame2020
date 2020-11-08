@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KeyUI
+comment0.text=\r\n\ UI-Element,\ welches\ angibt\ ob\ der\ Spieler\ den\ Bossschl\u00FCssel\ der\ aktuellen\ Ebene\ eingesammelt\ hat.\ \r\n\ \r\n\ @Sebi,\ Daniel\r\n\ @14.06.\r\n
+comment1.params=
+comment1.target=KeyUI()
+comment2.params=
+comment2.target=void\ keyCollected()
+numComments=3

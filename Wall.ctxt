@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ \ Klasse\ f\u00C3\u00BCr\ den\ Wand\ collider,\ der\ daf\u00C3\u00BCr\ verantwortlich\ ist\ den\ Spieler\ innerhalb\ des\r\n\ \ Raums\ zu\ halten.\r\n\ \ @author\ Alex\r\n\ \ @version\ 12.5.2020\r\n
+comment1.params=width\ height
+comment1.target=Wall(int,\ int)
+comment1.text=\r\n\ Erstellt\ eine\ neue\ Wand\r\n\ @param\ width\ L\u00C3\u00A4nge\ der\ Wand\r\n\ @param\ height\ Breite\ der\ Wand\r\n
+numComments=2

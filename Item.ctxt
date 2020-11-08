@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Superklasse\ f\u00C3\u00BCr\ alle\ Items,\ die\ in\ den\ R\u00C3\u00A4umen\ auf\ dem\ Boden\ liegen\ k\u00C3\u00B6nnen\r\n\ @author\ Alex\r\n\ @version\ 17.5.2020\r\n
+comment1.params=
+comment1.target=Item()
+comment1.text=\r\n\ Konstruktor\ f\u00C3\u00BCr\ die\ abstrakte\ Klasse\ Item.\r\n\ Setzt\ ein\ gewolltes\ Bild.\r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ loadTexture()
+comment2.text=\r\n\ \ Gibt\ die\ gewollte\ Textur\ zur\u00C3\u0192\u00C2\u00BCck.\ Wird\ automatisch\ beim\ erstellen\ des\ Items\ aufgerufen\r\n\ \ @return\ GreenfootImage\ mit\ der\ Textur\r\n
+comment3.params=
+comment3.target=void\ onPickUp()
+comment3.text=\r\n\ \ Wird\ vom\ Spieler\ aufgerufen\ sobald\ er\ das\ Item\ ber\u00C3\u00BChrt.\r\n
+numComments=4

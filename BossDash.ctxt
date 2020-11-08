@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BossDash
+comment0.text=\r\n\ Hier\ wird\ die\ F\u00C3\u00A4higkeit\ Dash\ implementiert.\ Der\ Boss\ setzt\ sich\ auf\ eine\ bestimmte\ Richtung\ fest\r\n\ (Richtung\ Spieler\ vom\ Start\ aus)\ und\ l\u00C3\u00A4uft\ dann\ mit\ schneller\ Geschwindigkeit\ bis\ er\ einen\r\n\ Collider\ trifft\r\n\ \r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 19.6.2020\r\n
+comment1.params=boss
+comment1.target=boolean\ useAbility(Boss)
+comment1.text=\ \r\n\ F\u00C3\u00BChrt\ einen\ Schritt\ der\ F\u00C3\u00A4higkeit\ aus.\r\n\ @param\ boss\ Boss,\ der\ die\ F\u00C3\u00A4higkeit\ ausf\u00C3\u00BChrt\r\n\ @return\ Boolean,\ ob\ die\ Methode\ nochmal\ aufgerufen\ werden\ soll\ /\ Die\ F\u00C3\u00A4higkeit\ nicht\ zu\ ende\ ist\r\n
+comment2.params=boss
+comment2.target=void\ stopAbility(Boss)
+comment2.text=\r\n\ Stoppt\ die\ F\u00C3\u00A4higkeit\ und\ resettet\ alles\r\n\ @param\ boss\ Boss,\ f\u00C3\u00BCr\ den\ die\ F\u00C3\u00A4higkeit\ gestoppt\ werden\ soll\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAbilityName()
+comment3.text=\r\n\ Gibt\ den\ Namen\ der\ F\u00C3\u00A4higkeit\ zur\u00C3\u00BCck\r\n\ @return\ Name\ der\ F\u00C3\u00A4higkeit\ als\ String\r\n
+comment4.params=boss
+comment4.target=void\ manageAnim(Boss)
+comment4.text=\r\n\ Verwaltet\ die\ Animation\ des\ Bosses\ in\ Ber\u00FCcksichtigung\ der\ aktuellen\ F\u00E4higkeit.\r\n\ @author\ Daniel\r\n
+numComments=5

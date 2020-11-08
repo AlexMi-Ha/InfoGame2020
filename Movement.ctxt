@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Movement
+comment0.text=\r\n\ Das\ Interface\ Movement\ gibt\ eine\ Methode\ vor,\ die\ von\ den\ Gegnern\ im\ Spiel\ aufgerufen\ wird,\ die\ Methode\ zielBerechnen(int,int,int,int).\r\n\ \r\n\ \r\n\ @author\ Anja\ \r\n\ @version\ 19.05.2020\r\n
+comment1.params=playerX\ playerY\ enemyX\ enemyY
+comment1.target=int[]\ zielBerechnen(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Als\ R\u00C3\u00BCckgabewert\ dient\ ein\ Feld\ mit\ zwei\ Stellen,\ in\ die\ bei\ Methodenausf\u00C3\u00BChrung\ zwei\ int-Werte\ eingef\u00C3\u00BCgt\ werden,\ die\ den\ Vektor\ beschreiben,\r\n\ um\ den\ sich\ die\ Gegner\ bewegen\ m\u00C3\u00BCssen.\ Deshalb\ ben\u00C3\u00B6tigt\ man\ auch\ \ als\ Parameter\ die\ jeweiligen\ Standort\ Koordinaten\ von\ Gegner\ und\ Spieler.\ Mit\ ihnen\ \r\n\ wird\ n\u00C3\u00A4mlich\ dieser\ Vektor\ berechnet.\r\n
+comment2.params=playerX\ playerY\ enemyX\ enemyY
+comment2.target=boolean\ inRange(int,\ int,\ int,\ int)
+numComments=3

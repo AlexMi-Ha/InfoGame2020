@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DataManager
+comment0.text=\r\n\ Diese\ Klasse\ wird\ zur\ Kommunikation\ zwischen\ gespeicherten\ Dateien\ und\ dem\ Spiel\ verwendet.\r\n\ \r\n\ @author\ Sebi\r\n\ @version\ 07.06.\r\n
+comment1.params=
+comment1.target=int\ read()
+comment1.text=\r\n\ Gibt\ den\ in\ score.data\ gespeicherten\ Highscore\ als\ int\ zur\u00C3\u00BCck.\r\n
+comment2.params=score
+comment2.target=void\ write(int)
+comment2.text=\r\n\ \u00DCberschreibt\ den\ in\ score.data\ gespeicherten\ Wert\ mit\ int\ score.\r\n
+numComments=3

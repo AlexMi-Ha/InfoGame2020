@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HogBoss
+comment0.text=\r\n\ Die\ Klasse\ des\ HogBosses.\ Er\ kann\ in\ die\ Richtung\ des\ Spielers\ st\u00C3\u00BCrmen\r\n\ und\ sich\ in\ eine\ Art\ Berserker\ modus\ versetzen,\ bei\ dem\ seine\ Geschwindigkeit\ gr\u00C3\u00B6\u00C3\u0178er\ wird,\r\n\ sein\ Schaden\ h\u00C3\u00B6her\ wird,\ er\ aber\ weniger\ Resistent\ f\u00C3\u00BCr\ Schaden\ wird.\r\n\ \r\n\ @author\ Alex,\ Daniel\r\n\ @version\ 19.6.2020\r\n
+comment1.params=
+comment1.target=HogBoss()
+comment1.text=\r\n\ Erzeugt\ eine\ Instanz\ eines\ neuen\ Hog\ Bosses\r\n
+comment2.params=
+comment2.target=IBossAbility\ pickAbility()
+comment2.text=\r\n\ Gibt\ eine\ zuf\u00C3\u00A4llige\ F\u00C3\u00A4higkeit\ aus\ der\ m\u00C3\u00B6glichen\ Auswahl\ des\ Bosses\ zur\u00C3\u00BCck\r\n\ @return\ F\u00C3\u00A4higkeiten\ Klasse,\ die\ IBossAbility\ implementiert\ (50%\ Dash;\ 50%\ berserker)\r\n
+comment3.params=player
+comment3.target=void\ attack(Player)
+comment3.text=\r\n\ Greift\ den\ Spieler\ (sofern\ er\ in\ Reichweite\ ist)\ an\r\n
+numComments=4

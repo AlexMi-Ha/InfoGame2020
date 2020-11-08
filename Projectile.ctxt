@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Projektile\ sind\ die\ Geschosse,\ die\ von\ Spieler\ und\ den\ Archern\ abgeschossen\ werden.\ Sie\ haben\ eine\ maximale\ Schussweite\ nach\ der\ sie\ sich\ automatisch\ selbst\ zerst\u00C3\u00B6ren.\ Au\u00C3\u0178erdem\ \r\n\ gehen\ sie\ kaputt\ an\ allen\ Collidern,\ sowie\ an\ ihrem\ jeweiligen\ Ziel.\ Diesem\ f\u00C3\u00BCgen\ sie\ jedoch\ zuvor\ Schaden\ zu.\r\n\ \r\n\ @author\ Anja,Daniel,\ Alex\r\n\ @version\ 25.06.2020\r\n
+comment1.params=dx\ dy\ startX\ startY\ s
+comment1.target=Projectile(int,\ int,\ int,\ int,\ greenfoot.Actor)
+comment2.params=dx\ dy\ startX\ startY\ s\ type\ maxAnimIndex
+comment2.target=Projectile(int,\ int,\ int,\ int,\ greenfoot.Actor,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Hier\ bewegt\ sich\ das\ Projektil\ vorw\u00C3\u00A4rts\ und\ zerst\u00C3\u00B6rt\ sich\ selbst\ wenn\ mindestens\ eine\ der\ Bedingungen\ zutrifft,\ zieht\ dem\ Ziel\ Leben\ auf\ Treffer\ ab\r\n
+comment4.params=
+comment4.target=void\ idleAnimation()
+comment4.text=\r\n\ Spielt\ die\ spezifische\ Animation\ des\ Projektils\ ab\ \r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ loadTexture()
+numComments=6

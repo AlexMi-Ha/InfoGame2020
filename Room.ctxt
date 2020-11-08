@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ Diese\ Klasse\ besitzt\ alle\ Daten\ eines\ bestimmten\ Raums\ den\ der\ Level\ Generator\ generiert\r\n\ @author\ Alex\ \r\n\ @version\ 6.6.2020\r\n
+comment1.params=pos\ type
+comment1.target=Room(int[],\ Room.ROOM_TYPE)
+comment1.text=\r\n\ Erzeugt\ einen\ neuen\ Raum\r\n\ @param\ pos\ Ortsvektor\ zu\ diesem\ Raum\ als\ Game\ Coords\r\n\ @param\ type\ ROOM_TYPE\ des\ Raumes\r\n
+comment10.params=triggeredRoomEvent
+comment10.target=void\ setRoomEventTriggerd(boolean)
+comment10.text=\r\n\ Setzt\ ob\ das\ Raumevent\ schon\ bet\u00C3\u00A4tigt\ wurde.\ (Gegner\ gespawnt,\ Key\ genommen...)\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ getData()
+comment2.text=\r\n\ Gibt\ die\ Raumdaten\ dieses\ Raumes\ zur\u00C3\u00BCck.\r\n\ @return\ Gibt\ Array\ mit\ den\ Raumdaten\ zur\u00C3\u0192\u00C2\u00BCck\:\ [0]\=doorN;\ [1]\=doorE;\ [2]\=doorS;\ [3]\=doorW;\ [4]\=ROOM_TYPE;\r\n\ [5]\=CharacterPosition(kann\ NAN\ sein)\r\n
+comment3.params=
+comment3.target=int[]\ getRoomRandoms()
+comment3.text=\r\n\ Gibt\ die\ zufallszahlen\ des\ Raumes\ zur\u00C3\u00BCck\r\n\ @return\ Gibt\ den\ Vektor\ der\ Raumspezifischen\ Zufallszahlen\ zur\ Rauminhalts\ generation\ zur\u00C3\u0192\u00C2\u00BCck\r\n
+comment4.params=
+comment4.target=Room.ROOM_TYPE\ getType()
+comment4.text=\r\n\ Gibt\ den\ Typ\ des\ Raumes\ zur\u00C3\u00BCck\r\n\ @return\ Gibt\ den\ ROOM_TYPE\ des\ Raums\ zur\u00C3\u0192\u00C2\u00BCck\r\n
+comment5.params=
+comment5.target=int\ getRoomTypeID()
+comment5.text=\r\n\ Gibt\ die\ RaumID\ dieses\ Raumes\ zur\u00C3\u00BCck\r\n\ @return\ Gibt\ die\ Variation\ des\ Raums\ zur\u00C3\u0192\u00C2\u00BCck\r\n
+comment6.params=type
+comment6.target=void\ setType(Room.ROOM_TYPE)
+comment6.text=\r\n\ Setzt\ den\ ROOM_TYPE\ von\ dem\ Raum\r\n
+comment7.params=
+comment7.target=boolean\ isVisited()
+comment7.text=\r\n\ Wurde\ dieser\ Raum\ schon\ besucht?\r\n\ @return\ Boolean,\ ob\ der\ Spieler\ schon\ in\ diesem\ Raum\ war\r\n
+comment8.params=visited
+comment8.target=void\ visited(boolean)
+comment8.text=\r\n\ Setzt\ ob\ der\ Raum\ schon\ besucht\ wurde\r\n
+comment9.params=
+comment9.target=boolean\ triggeredRoomEvent()
+comment9.text=\r\n\ Wurde\ das\ Raumevent\ schon\ bet\u00C3\u0192\u00C2\u00A4tigt?\ (Gegner\ gespawnt,\ Key\ genommen,\ Kisten\ ge\u00C3\u0192\u00C2\u00B6ffnet...)\r\n\ @return\ Boolean,\ ob\ das\ Raumevent\ schon\ bet\u00C3\u00A4tigt\ wurde\r\n
+numComments=11

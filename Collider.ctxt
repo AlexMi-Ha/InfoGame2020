@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Collider
+comment0.text=\r\n\ Collider\ Superklasse.\ Diese\ wird\ benutzt\ um\ alle\ Collider\ wie\ Steine\ oder\ W\u00C3\u00A4nde\r\n\ geb\u00C3\u00BCndelt\ als\ Collider\ ansprechen\ zu\ k\u00C3\u00B6nnen.\r\n\ Au\u00C3\u0178erdem\ bestimmt\ sie,\ ob\ ein\ Gegner\ \u00C3\u00BCber\ einen\ Collider\ dr\u00C3\u00BCberfliegen\ kann.\r\n\ \r\n\ Ein\ Actor\ ist\ im\ Collider\ sobald\ getOneIntersectingObject(Collider.class)\ nicht\ null\ ist.\r\n\ @author\ Alex\r\n\ @version\ 12.5.2020\r\n
+comment1.params=solidToFlying
+comment1.target=Collider(boolean)
+comment1.text=\r\n\ Konstruktor\ der\ abstrakten\ Klasse\ Collider\r\n\ @param\ solidToFlying\ Ist\ der\ Collider\ fest\ f\u00C3\u00BCr\ fliegende\ Gegner?\r\n
+comment2.params=
+comment2.target=boolean\ isSolidToFlying()
+comment2.text=\r\n\ Gibt\ zur\u00C3\u00BCck\ ob\ der\ Collider\ \r\n\ @return\ Boolean\ ob\ ein\ fliegender\ Gegner\ \u00C3\u0192\u00C2\u00BCber\ diesen\ Collider\ dr\u00C3\u0192\u00C2\u00BCber\ fliegen\ kann\r\n
+numComments=3
